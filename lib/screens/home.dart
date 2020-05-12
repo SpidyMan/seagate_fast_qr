@@ -75,7 +75,7 @@ class _HomeState extends State<Home> {
           // contentPadding: EdgeInsets.zero,
           contentPadding: EdgeInsets.fromLTRB(20.0, 10.0, 20.0, 10.0),
           border: OutlineInputBorder(borderRadius: BorderRadius.circular(5.0)),
-          helperText: 'type in your GID',
+          helperText: 'xxxxtype in your GID',
         ),
 
         validator: (String value) {
