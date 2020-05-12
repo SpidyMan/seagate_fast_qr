@@ -77,7 +77,7 @@ class _HomeState extends State<Home> {
           border: OutlineInputBorder(borderRadius: BorderRadius.circular(5.0)),
           helperText: 'xxxxtype in your GID',
         ),
-//test XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+//test yyyyyyyyyyyyyyyyyyyyyyyyyy
         validator: (String value) {
           if (value.isEmpty) {
             return 'Please check your GID';
