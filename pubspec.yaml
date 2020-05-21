@@ -18,9 +18,11 @@ environment:
 
 dependencies:
   shared_preferences: ^0.5.7
-  super_qr_reader: ^2.0.0
   url_launcher: ^5.4.5
-  flutter:
+  firebase_admob: ^0.9.3+2
+  qr_code_scanner: ^0.0.13
+
+  flutter:                                                                                                                            
     sdk: flutter
 
   # The following adds the Cupertino Icons font to your application.
@@ -30,7 +32,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  flutter_launcher_icons: "^0.7.3"
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -71,3 +77,5 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+

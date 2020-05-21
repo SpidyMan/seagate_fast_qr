@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1073852749349",
+    "firebase_url": "https://seagate-qr-project.firebaseio.com",
+    "project_id": "seagate-qr-project",
+    "storage_bucket": "seagate-qr-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073852749349:android:c0540eb6f0a6e2b7e551cc",
+        "android_client_info": {
+          "package_name": "com.example.seagate_fast_qr_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073852749349-jbr3dbbdhrprtpjrptf0lgqvc5ijhpje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC19zvmo0xw5zvgP46IfT07SQWbjlMKFhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073852749349-jbr3dbbdhrprtpjrptf0lgqvc5ijhpje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
